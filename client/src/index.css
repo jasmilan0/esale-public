@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.pic-one{
+  height: 70vh;
+}
+
+.divSize{
+  height: 50vh;
+  @apply w-full
+}
